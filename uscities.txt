@@ -1,1 +1,2 @@
 https://simplemaps.com/data/us-cities
+The file contains some useful city/town-level information for my analysis such as population and density. The free version is good enough. However, there are certain other vital features such as gender ration and college attainment rate, which unfortunately are only available through premium version of this data set.
