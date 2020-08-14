@@ -1,1 +1,1 @@
-This is an introduction to my capstone project for IBM Data Science certification 
+This is an introduction to my capstone project for IBM Data Science certificate
