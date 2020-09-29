@@ -5,4 +5,4 @@ Main findings: there is no statistical difference between the academic distribut
 
 Methodology: multinomial logistic regression and chi-squared test for independence.
 
-For the ease of viewing, please visit this website as it display my project more properly: https://nbviewer.jupyter.org/github/putalo/IBM-project/blob/master/Capstone%20Project.ipynb
+For the ease of viewing, please visit this website as it displays my project more properly: https://nbviewer.jupyter.org/github/putalo/IBM-project/blob/master/Capstone%20Project.ipynb
